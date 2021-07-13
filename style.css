@@ -1,0 +1,206 @@
+
+#top{
+    text-align: center;
+    padding:0rem 0rem 1rem;
+}
+
+#top h1{
+    margin:2rem 0rem;
+    font-family: monospace;
+    font-size: 1.5rem;
+    
+}
+
+#travel img{
+    min-height: auto;
+
+}
+
+#top img{
+    width: 100%;
+}
+
+#travel h1{
+    text-align: center;
+    font-family: cursive
+}
+
+#mainname img{
+    float: left;
+}
+
+
+#music{
+    text-align: center;
+    min-height: auto;
+    /* border:2px solid; */
+    padding: 50px 0px;
+}
+
+video{
+    width:23%;
+    height:300px;
+}
+
+#Videos{
+    text-align: center;
+    min-height: auto;
+    padding: 50px 0px;
+}
+
+#music h1{
+    margin-bottom: 50px;
+}
+
+#YouTube h1{
+    text-align: center;
+}
+
+#YouTube iframe{
+    padding: 50px 10px;
+    width:23%;
+    height:300px;
+    min-height: auto;
+    /* border:2px solid; */
+}
+
+#MyContent h1{
+    text-align:center;
+}
+
+.travel_div{
+    display:inline-block;
+    width:23%;
+    text-align: center;
+    padding:0.5%;
+    margin:0.2%;
+    box-shadow: 0px 0px 10px black ;
+
+}
+
+.travel_div img{
+    width:100%;
+}
+
+#travel{
+    min-height:auto;
+    padding:25px;
+    text-align:center;
+}
+
+#mainname h1{
+    font-family:cursive;
+    font-size:110px;
+    color:midnightblue;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+#about div{
+    max-width:700px;
+    margin:auto;
+    text-align: center;
+}
+#about{
+    text-align: center;
+    padding:5rem 1rem 1rem;
+}
+#about h1{
+    margin:2rem 0rem;
+    font-family: 'Cousine', monospace;
+    font-size: 1.5rem;
+}
+#about p{
+    font-family:'Comfortaa', cursive;
+     color:black;
+     font-size: 15px;
+     text-align: left;
+     line-height: 1.7;
+     /* letter-spacing: 2px; */
+}
+
+#aboutme2{
+    background-color:rgb(107, 231, 169);
+    min-height: 100vh;
+}
+
+footer{
+    padding-left: 20px;
+    height:10rem;
+    padding:10px 30px;
+    background-color: green;
+}
+footer div{
+    text-align: center;
+    font-size: 1.5rem;
+    color:#aaa;
+    padding-top: 2rem;
+}
+footer i:hover{
+    color:rgb(192, 56, 56)
+}
+
+footer i{
+    border-radius: 3rem;
+}
+
+#mainname{
+    padding: 150px;
+    margin-bottom: 200px;
+}
+
+#main2{
+    min-height: 800px;
+    background-color:rgb(107, 231, 169);
+}
+
+#ContactMe h1{
+    font-size: 130px;
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+#ContactMe h5{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;    
+}
+
+#ContactMe{
+    min-height: 750px;
+    background-color:rgb(107, 231, 169); ;
+}
+
+.InputBoxes{
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+#Sendbtn{
+    width: 100px;
+    height: 50px;
+    background-color:springgreen;
+    margin-left: 910px;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+#socialmedia h2{
+    font-family: 'Dela Gothic One', cursive;   
+    text-align:center;
+    margin-top:100px;
+}
+
+.InputBoxes input{
+    height: 30px;
+    width: 400px;
+    border-radius: 5px;
+    padding-left: 20px;
+    margin-top: 25px;
+}
+
+
+
+

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "My Portfolio V",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My Portfolio V"
+	}
+}

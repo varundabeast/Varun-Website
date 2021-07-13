@@ -1,0 +1,144 @@
+
+#blog-content table{
+    min-height:700px;
+    width: 100%;
+}
+
+#blog-left{
+    width: 70%;
+    vertical-align: top;
+    background-color:lightgreen;
+    text-align: center;
+}
+
+#blog-right{
+    width: 30%;
+    vertical-align: top;
+    padding: 25px;
+    background-color:lightgreen;
+}
+
+#blog-right img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 12px;
+}
+
+#blog-right h4{
+    padding-top:30px;
+}
+
+.blog-post{
+    clear: left;
+    box-shadow: 0px 0px 5px grey;
+    overflow: auto;
+    margin-top: 15px;
+}
+ .blog-content h1{
+    color: green;
+    text-align: center;
+ }
+
+ .blog-general-post{
+    vertical-align: top;
+    margin-top: 50px;
+    text-align: center;
+    width: 40%;
+    display: inline-block;
+    margin: 2%;
+    text-align: justify;
+    padding: 10px;
+    box-shadow: 0px 0px 5px black;
+    background-color: white;
+ }
+
+ .blog-general-post p{
+    font-size: 15px;
+    color: black;
+ }
+
+ .blog-general-post a{
+    text-decoration: none;
+ }
+
+ .blog-general-post img{
+     width: 100%;
+ }
+
+ .blog-general-post h4{
+    margin-bottom: 5px;
+    margin-top: 10px;
+ }
+
+ #blog-banner-overlay{
+    position: absolute;
+    background-color: rgba(0,0,0,0.3);
+ }
+
+ .blog-content p{
+    font-size: 16px;
+    text-align: justify;
+    font-family:'Comfortaa', cursive;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+ }
+
+ .blog-content{
+     padding: 20px;
+     margin-left: 100px;
+     margin-right: 100px;
+     text-align: justify;
+    
+ }
+
+ #parent{
+   position:relative;
+ }
+ 
+ #parent div{
+   height:395px;
+ }
+ 
+ #overlay{
+   background-color:rgba(0,0,0,0.5);
+   position:absolute;
+   top:0;
+   left:0;
+   bottom:0;
+   right:0;
+ }
+ 
+ #image-marvel{
+   background-image:url(Images/Home/Blog\ MCU.jpg);
+   background-size:contain;
+   width: 100%;
+   height: 33vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative
+    
+ }
+ 
+ #parent h1{
+   color:white;
+   text-align: center;
+   margin-top: 150px;
+   font-size: 70px;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .blog-content h1{
+   margin-top: 2rem;
+   margin-bottom: 1rem;
+ }
+
+ #image-project{
+  background-image:url(Images/Home/coderz.jpg);
+  background-size:contain;
+  width: 100%;
+  height: 33vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
